@@ -5,6 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
+# Add files that are to big to add to github.
+.DS_Store
+201908-citibike-tripdata-revised.csv
+201908-citibike-tripdata.csv
 
 # Distribution / packaging
 .Python
