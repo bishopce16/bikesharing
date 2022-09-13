@@ -1,28 +1,36 @@
 # bikesharing
 
-## Overview of Project
+## Overview of Project<br>
+
 Overview of the analysis: Explain the purpose of this analysis.
 
 ---
 
-## Resource:
+## Resource:<br>
 
-Data Sources:
+Data Sources: <br>
 
-Tools:
+Tools: Visual Studio Code, Tableau Public.<br>
  
 ---
 
-## Results:
+## Results:<br>
 
 Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+![]()<br>
+![]()<br>
+![]()<br>
+![]()<br>
+![]()<br>
+![]()<br>
+![]()<br>
 
 * You must use the five visualizations that you created in Deliverable 2.
 * You must use at least two visualizations that you created in this module.
 
 ---
 
-## Summary:
+## Summary:<br>
 
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
